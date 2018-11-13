@@ -24,7 +24,7 @@
 
 <key>url</key>
 
-<string>http://139.159.193.88:3880/sanguo.ipa</string>
+<string>https://www.zhengje.cn/app/sanguo.ipa</string>
 
 </dict>
 
@@ -36,7 +36,7 @@
 
 <key>url</key>
 
-<string>http://139.159.193.88:3880/57.png</string>
+<string>https://www.zhengje.cn/app/57.png</string>
 
 </dict>
 
@@ -48,7 +48,7 @@
 
 <key>url</key>
 
-<string>http://139.159.193.88:3880/512.png</string>
+<string>https://www.zhengje.cn/app/512.png</string>
 
 </dict>
 
